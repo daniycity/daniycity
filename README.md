@@ -4,8 +4,8 @@
 
 ##### Projects
 Sorry I do a lot of projects for training or fun so there are too much! but I suggest you to check these....
-- 🌌 Space website school project [GithubPages](https://daniycity.github.io/Space-Website-Exercise/homepage.html);
-- 🔮 Bouncy ball games school project [GithubPages](https://daniycity.github.io/Bounce-ball-game-javascript/);
+- 🌌 Space website school project [GithubPages](https://daniycity.github.io/Space-Website-Exercise/homepage.html)
+- 🔮 Bouncy ball games school project [GithubPages](https://daniycity.github.io/Bounce-ball-game-javascript/)
 
 ##### Other 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniele_Pagano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniele-pagano-335322212/)](https://www.linkedin.com/in/daniele-pagano-335322212/)
