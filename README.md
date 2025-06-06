@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Junior full-Stack Developer working in Italy.<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+#### I'm a Middle full-Stack Developer working in Italy.<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 ##### Projects
 Sorry I do a lot of projects for training or fun so there are too much! but I suggest you to check these....
